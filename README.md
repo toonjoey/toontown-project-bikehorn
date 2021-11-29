@@ -45,6 +45,7 @@ The things changed are:
 
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
 * The unused Tug-o-War theme has been reimplemented
+* Fixed Lawbot HQ scale not displaying the emblem (credits to yippie2020!)
 * Fixed the bathtub beds handles not displaying due to an alpha channel issue
 
 It's also possible that I made a mistake. In which case, please open an issue/pull request if possible!
