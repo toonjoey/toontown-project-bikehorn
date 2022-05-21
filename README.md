@@ -1,6 +1,6 @@
 # Project: Bikehorn
 
-Project Bikehorn is a content pack for Toontown Rewritten that aims to enhance the experience as faithfully as possible by using the original resolution textures released as part of the "Spotify" repo, restored music using the restored gm.dls soundfont by michael64, and eventually source quality sound effects found by The Almighty Egg.
+Project Bikehorn is a content pack for Toontown Rewritten that aims to enhance the experience as faithfully as possible by using the original resolution textures released as part of the "Spotify" repository.
 
 The result is a near 1:1 idea of what a faithful modern day Toontown could've looked like, staying as true as possible to the original game.
 
@@ -25,10 +25,6 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 * Michael64 for the gm.dls restored soundfont
 * James T. Sale for the original intended music for Tug-o-War
 
-### Sound effects
-
-Sound effects are not implemented yet, but when they are implemented please credit The Almighty Egg for finding the original high quality sources.
-
 ### Textures
 
 * Satire6 for their generous upload of the Spotify repo (which can be found here: https://github.com/satire6/Spotify). Without it, none of this would've ever existed!
@@ -52,7 +48,11 @@ It's also possible that I made a mistake. In which case, please open an issue/pu
 
 **Q:** Will this continue to be updated?
 
-**A:** This is only the beginning! The current version of this pack is only *just* good enough to release. Eventually, I plan to add more palettes, fix up the music a bit, and when The Almighty Egg gets around to it, add the *original, uncompressed sound effects straight from their original libraries.* There will be a spreadsheet detailing which sound effects are or aren't used, and what libraries/companies they came from. The aim is to provide an intricately detailed community resource for all to use in their projects.
+**A:** Of course! There's still some minor issues to work out, so please open an issue if you see something (or contact me on Discord: toonjoey#4133).
+
+**Q:** Will sound effects be worked on?
+
+**A:** Sadly, sound effects are on an indefinite hiatus for the moment.
 
 **Q:** Why do some textures look pixellated?
 
