@@ -18,20 +18,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **Q:** Can I use _____?
 
-**A:** Depending on what you're trying to use, go right ahead, but please credit these people:
-
-### Music
-
-* Michael64 for the gm.dls restored soundfont
-* James T. Sale for the original intended music for Tug-o-War
-
-### Textures
-
-* Satire6 for their generous upload of the Spotify repo (which can be found here: https://github.com/satire6/Spotify). Without it, none of this would've ever existed!
-* P3DCAT for the Pandora Palletizer tool (which can be found here: https://github.com/P3DCAT/PandoraPalettizer/).
-* Toontown Texture Restoration for a couple of the palettes included in here
-* Dank Mickey for the Rerigged Skelecog palettes
-* toonjoey for rearranging a lot of the Pandora Palletizer palettes to be 1:1 with their original textures
+**A:** Go right ahead, no need for permission at all but credit would be nice.
 
 **Q:** Some things look/sound a bit different from the original game. Why is that?
 
