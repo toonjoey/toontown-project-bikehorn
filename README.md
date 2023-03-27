@@ -27,7 +27,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 The things changed are:
 
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
-* Restored red cross on the Ambulance Chaser (Nurse Shark texture hasn't been restored, but the original resolution version of the TTR texture is used courtesy of Kel’Block)
+* Restored red cross on the Ambulance Chaser/Nurse Shark (Original resolution Nurse Shark provided by Kel'Block)
 * Fixed Lawbot HQ scale not displaying the emblem (credits to yippie2020!)
 * Fixes to a large variety of RGB issues caused by faulty TIF files in the original model repository, such as Estates and Catching Game
 
