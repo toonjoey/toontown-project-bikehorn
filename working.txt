@@ -1,0 +1,17 @@
+This is a list of what textures are WIP at the moment and why. Also using this to count what needs to be removed.
+
+PHASE_3:
+avatar_palette_1lmla_1 (stock TTR, needs update)
+avatar_palette_1lmla_2 (stock TTR, needs update)
+avatar_rerigged_palette_* (stock TTR, needs update/removal possibly?)
+bearMuzSuprised03 (stock TTR, needs update)
+Danger_1 (stock TTR, needs update/removal possibly?)
+makeatoon_palette_3cmla_4 (texture restoration, doesn't need downscaling (needs a redo if possible though))
+makeatoon_palette_4amla_2 (doesn't need downscaling)
+phase_3_palette_1amlc_1 (stock TTO, remake?)
+phase_3_palette_1amlc_3 (stock TTO, remake?)
+phase_3_palette_1amlc_5 (stock TTO, remake?)
+phase_3_palette_1amlc_6 (stock TTO, remake?)
+phase_3_palette_2tmlc_1 (stock TTO, remake?)
+phase_3_palette_2tmlc_2 (stock TTO, remake?)
+pupils (stock TTO, needs redo)
