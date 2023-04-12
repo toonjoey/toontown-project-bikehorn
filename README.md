@@ -20,6 +20,8 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **A:** Go right ahead, no need for permission at all but credit would be nice.
 
+My only request is that you don't steal the credit for yourself or anyone else. I worked on this pack for about 3 whole years, and in that time I had to deal with a lot of issues with even just publishing the pack...so for something like that to happen wouldn't be right under any circumstances.
+
 **Q:** Some things look/sound a bit different from the original game. Why is that?
 
 **A:** To enhance the experience slightly, I've made some personal edits to parts of the pack to fix some minor oversights and overall bring it closer to what I believe Disney intended.
