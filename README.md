@@ -31,6 +31,7 @@ The things changed are:
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
 * Restored red cross on the Ambulance Chaser/Nurse Shark (Original resolution Nurse Shark provided by Kel'Block)
 * Fixed Lawbot HQ scale not displaying the emblem (credits to yippie2020!)
+* Remastered Bossbot HQ portraits using altered versions of Footballtoon's scans of the source trading cards
 * Fixes to a large variety of RGB issues caused by faulty TIF files in the original model repository, such as Estates and Catching Game
 
 It's also possible that I made a mistake. In which case, please open an issue/pull request if possible!
