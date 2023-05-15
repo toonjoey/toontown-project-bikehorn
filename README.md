@@ -44,6 +44,8 @@ It's also possible that I made a mistake. In which case, please open an issue/pu
 
 **A:** Sadly, sound effects are on an indefinite hiatus for the moment.
 
-**Q:** Why do some textures look pixellated?
+**Q:** Does this make any use of upscaling?
 
-**A:** The Spotify repo only has content dating up to around 2008. This means things like the finalized Toon Hall, a couple minor textures for parties, and Field Offices weren't included. The original textures were used where applicable, and in most cases they were simply scaled up from their original resolutions, resulting in the pixellated look mentioned earlier.
+**A:** *For the most part,* no. Because Spotify dates to around 2008, many textures for content like Field Offices or the Silly Meter are missing, and possibly even lost to time. So for these cases, I opted to use a model by the name of [HDCube](https://github.com/Venomalia/HDcube). While it's designed around GameCube textures (which it looks fantastic on), it worked remarkably well on anything missing from Spotify. So in the interest of keeping a consistently clean picture throughout, I decided to use upscaling for anything missing.
+
+For the record, ***I will not be adding upscales to anything that isn't already part of a palette at this time.*** It might come later, but for now, I'm keeping it strictly to anything already palettized that doesn't have an HD equivalent.
