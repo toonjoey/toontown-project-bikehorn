@@ -46,6 +46,6 @@ It's also possible that I made a mistake. In which case, please open an issue/pu
 
 **Q:** Does this make any use of upscaling?
 
-**A:** *For the most part,* no. Because Spotify dates to around 2008, many textures for content like Field Offices or the Silly Meter are missing, and possibly even lost to time. So for these cases, I opted to use a model by the name of [HDCube](https://github.com/Venomalia/HDcube). While it's designed around GameCube textures (which it looks fantastic on), it worked remarkably well on anything missing from Spotify. So in the interest of keeping a consistently clean picture throughout, I decided to use upscaling for anything missing.
+**A:** *For the most part,* no. Because Spotify dates to around 2008, many textures for content like Field Offices or the Silly Meter are missing, and possibly even lost to time. So for these cases, I opted to use a model by the name of [HDCube](https://github.com/Venomalia/HDcube). While it's designed around GameCube textures (which it looks fantastic on), it worked remarkably well on anything missing from Spotify. So in the interest of keeping a consistently clean picture throughout, I decided to use upscaling and manual editing for anything missing.
 
 For the record, ***I will not be adding upscales to anything that isn't already part of a palette at this time.*** It might come later, but for now, I'm keeping it strictly to anything already palettized that doesn't have an HD equivalent.
