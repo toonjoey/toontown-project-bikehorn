@@ -22,16 +22,16 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 My only request is that you don't steal the credit for yourself or anyone else. I worked on this pack for about 3 whole years, and in that time I had to deal with a lot of issues with even just publishing the pack...so for something like that to happen wouldn't be right under any circumstances.
 
-**Q:** Some things look/sound a bit different from the original game. Why is that?
+**Q:** Some things look a bit different from the original game. Why is that?
 
 **A:** To enhance the experience slightly, I've made some personal edits to parts of the pack to fix some minor oversights and overall bring it closer to what I believe Disney intended.
 
 The things changed are:
 
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
-* Restored red cross on the Ambulance Chaser/Nurse Shark (Original resolution Nurse Shark provided by Kel'Block)
-* Fixed Lawbot HQ scale not displaying the emblem (credits to yippie2020!)
-* Remastered Bossbot HQ portraits using altered versions of Footballtoon's scans of the source trading cards
+* Restored red cross on the Ambulance Chaser/Nurse Shark
+* Fixed Lawbot HQ scale not displaying the emblem
+* Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
 * Fixes to a large variety of RGB issues caused by faulty TIF files in the original model repository, such as Estates and Catching Game
 
 It's also possible that I made a mistake. In which case, please open an issue/pull request if possible!
@@ -45,3 +45,12 @@ It's also possible that I made a mistake. In which case, please open an issue/pu
 **A:** *For the most part,* no. Because Spotify dates to around 2008, many textures for content like Field Offices or the Silly Meter are missing, and possibly even lost to time. So for these cases, I opted to use AI upscaling using ESRGAN. Most (but not all) textures use [HDCube](https://github.com/Venomalia/HDcube). While it's designed around GameCube textures (which it looks fantastic on), it worked remarkably well on anything missing from Spotify. So in the interest of keeping a consistently clean picture throughout, I decided to use upscaling and manual editing for anything missing.
 
 For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be adding upscales to anything that isn't already part of a palette at this time.*** It might come later, but for now, I'm keeping it strictly to anything already palettized that doesn't have an HD equivalent.
+
+# CREDITS
+
+* Kel'Block: Original resolution Nurse Shark, converting the Ambulance Chaser to the new UV
+* yippie2020: Fix to the Lawbot HQ scale
+* Footballtoon: Trading card scans
+* robertfwallis and Mr. Cheeze: General nitpicking/bug reporting
+* JoeyZio and the entire Toontown Rewritten team: I will never once forget the moment you used this pack for the backdrops at ToonFest 2023, being told my work was used as reference/a basis for Remastered, and being complimented both on and off stage from both team members and the community at large for the work done. Thank you all SO much!
+* You: Using it, even if your computer turned into an explosive device from it!
