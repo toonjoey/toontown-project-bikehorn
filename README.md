@@ -31,6 +31,7 @@ The things changed are:
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
 * Restored red cross on the Ambulance Chaser/Nurse Shark
 * Fixed Lawbot HQ scale not displaying the emblem
+* Fix a poor quality removal of a small light on the Donald's Dreamland skybox that caused a small seam in the texture
 * Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
 * Fixes to a large variety of RGB issues caused by faulty TIF files in the original model repository, such as Estates and Catching Game
 
