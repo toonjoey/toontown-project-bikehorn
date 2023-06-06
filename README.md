@@ -12,6 +12,15 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **A:** Grab a copy of the ZIP in the Releases section. Go to your Toontown Rewritten installation directory and make a new folder called "resources", and put the .mf file from the ZIP in the new folder you've created. Start the game, go into the Video section of the options, scroll all the way down, and tick both "Enable Experimental Settings" and "Remove Maximum Texture Size". Scroll up a tiny bit, enable "Project: Bikehorn", and finally hit "Apply".
 
+**Q:** How compatible is this source with other projects (Open Toontown for example)?
+
+**A:** *Mostly.* To comply with Toontown Rewritten's updates, certain files had to be removed or changed. A list will be provided here:
+
+* avatar_palette_2tmla_1: Removed to support Toontown Rewritten's portable hole remaster
+* toontown_map: Removed to support Toontown Rewritten's updated map
+
+I plan to make a separate branch for compatibility with non-Rewritten sources/projects. In the mean time, please add these files yourself. Pandora Palettizer has a set of pre-exported files you can use.
+
 **Q:** I found an issue/want to contribute!
 
 **A:** Go ahead! This project is open sourced for that exact reason. Open an issue/pull request and I'll review it.
