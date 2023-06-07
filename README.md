@@ -18,6 +18,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 * avatar_palette_2tmla_1: Removed to support Toontown Rewritten's portable hole remaster
 * toontown_map: Removed to support Toontown Rewritten's updated map
+* gamegui_palette_4alla_1: Removed to support Toontown Rewritten's removal of the True Friends option
 
 I plan to make a separate branch for compatibility with non-Rewritten sources/projects. In the mean time, please add these files yourself. Pandora Palettizer has a set of pre-exported files you can use.
 
