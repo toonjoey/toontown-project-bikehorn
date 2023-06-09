@@ -49,7 +49,7 @@ It's also possible that I made a mistake. In which case, please open an issue/pu
 
 **Q:** Will this continue to be updated?
 
-**A:** Of course! There's still some minor issues to work out, so please open an issue if you see something (or contact me on Discord: toonjoey#4133).
+**A:** Of course! There's still some minor issues to work out, so please open an issue if you see something (or contact me on Discord).
 
 **Q:** Does this make any use of upscaling?
 
