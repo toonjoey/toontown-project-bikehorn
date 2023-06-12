@@ -10,7 +10,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **Q:** How do I install this?
 
-**A:** Grab a copy of the ZIP in the Releases section. Go to your Toontown Rewritten installation directory and make a new folder called "resources", and put the .mf file from the ZIP in the new folder you've created. Start the game, go into the Video section of the options, scroll all the way down, and tick both "Enable Experimental Settings" and "Remove Maximum Texture Size". Scroll up a tiny bit, enable "Project: Bikehorn", and finally hit "Apply".
+**A:** Grab a copy of the ZIP in the Releases section. Go to your Toontown Rewritten installation directory and make a new folder called "resources", and put the .mf file from the ZIP in the new folder you've created. Start the game, go into the Video section of the options, scroll all the way down, enable "Project: Bikehorn", and finally hit "Apply".
 
 **Q:** How compatible is this source with other projects (Open Toontown for example)?
 
