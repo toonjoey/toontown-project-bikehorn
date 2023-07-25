@@ -66,6 +66,7 @@ For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be ad
 * robertfwallis and Mr. Cheeze: General nitpicking/bug reporting
 * CarterG4: Reconstructed versions of multiple Valentines Day related textures
 * Sebastian: Reconstructed version of the Valentines Day Dance Floor icon
-* P3DCAT team (darktohka and loonatic): Creation of the Pandora Palettizer tool, an invaluable asset for making the textures as high resolution as possible
+* P3DCAT team (darktohka and loonatic): Creation of the [Pandora Palettizer](https://github.com/P3DCAT/PandoraPalettizer) tool, an invaluable asset for making the textures as high resolution as possible
+* Toontown Texture Restoration: Placeholder assets, along with the inspiration for the project in the first place
 * JoeyZio and the entire Toontown Rewritten team: I will never once forget the moment you used this pack for the backdrops at ToonFest 2023, being told my work was used as reference/a basis for Remastered, and being complimented both on and off stage from both team members and the community at large for the work done. Thank you all SO much!
 * You: Using it, even if your computer turned into an explosive device from it!
