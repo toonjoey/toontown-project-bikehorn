@@ -17,6 +17,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 **A:** *Mostly.* To comply with Toontown Rewritten's updates, certain files had to be removed or changed. A list will be provided here:
 
 * avatar_palette_2tmla_1: Removed to support Toontown Rewritten's portable hole remaster
+* background: Removed to support Toontown Rewritten's loading screen
 * toontown_map: Removed to support Toontown Rewritten's updated map
 * gamegui_palette_4alla_1: Removed to support Toontown Rewritten's removal of the True Friends option
 * catalogBackground: Altered to remove shading on the perimeter of the texture, thus allowing it to display "correctly" in 16:9
@@ -42,6 +43,7 @@ The things changed are:
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
 * Restored red cross on the Ambulance Chaser/Nurse Shark
 * Fixed Lawbot HQ scale not displaying the emblem
+* Update the vanilla battle menu to correctly include the Fires icon
 * Fix a poor quality removal of a small light on the Donald's Dreamland skybox that caused a small seam in the texture
 * Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
 * Fixes to a large variety of RGB issues caused by faulty TIF files in the original model repository, such as Estates and Catching Game
@@ -62,6 +64,7 @@ For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be ad
 
 * Kel'Block: Original resolution Nurse Shark, converting the Ambulance Chaser to the new UV
 * yippie2020: Fix to the Lawbot HQ scale
+* KHDecoder: Battle menu shadow fix
 * Footballtoon: Trading card scans
 * robertfwallis and Mr. Cheeze: General nitpicking/bug reporting
 * CarterG4: Reconstructed versions of multiple Valentines Day related textures
