@@ -16,15 +16,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **Q:** How compatible is this source with other projects (Open Toontown for example)?
 
-**A:** *Mostly.* To comply with Toontown Rewritten's updates, certain files had to be removed or changed. A list will be provided here:
-
-* avatar_palette_2tmla_1: Removed to support Toontown Rewritten's portable hole remaster
-* background: Removed to support Toontown Rewritten's loading screen
-* toontown_map: Removed to support Toontown Rewritten's updated map
-* gamegui_palette_4alla_1: Removed to support Toontown Rewritten's removal of the True Friends option
-* catalogBackground: Altered to remove shading on the perimeter of the texture, thus allowing it to display "correctly" in 16:9
-
-I plan to make a separate branch for compatibility with non-Rewritten sources/projects. In the mean time, please add these files yourself. Pandora Palettizer has a set of pre-exported files you can use.
+**A:** This branch is specifically compatible with Toontown Rewritten assets, and not for any other source. Please see the other branch for non-Rewritten assets.
 
 **Q:** I found an issue/want to contribute!
 
