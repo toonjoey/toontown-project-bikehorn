@@ -16,7 +16,7 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **Q:** How compatible is this source with other projects (Open Toontown for example)?
 
-**A:** This branch is compatible with Toontown Online's textures, while still containing the fixes and improvements. It will be updated for closer visual parity to TTO as it existed before closure (gold bean bank, etc.).
+**A:** This branch is compatible with Toontown Online's textures, while still containing the fixes and improvements. It will be updated for closer visual parity to TTO as it existed before closure (gold bean bank, etc.). This branch is the one you would use for non-Rewritten assets (Open Toontown, Schoolhouse, etc.).
 
 If you wish to use these textures on Toontown Rewritten, please see the main branch.
 
