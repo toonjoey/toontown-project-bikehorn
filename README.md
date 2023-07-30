@@ -6,6 +6,8 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 ***NOTE: DUE TO THE EXTREMELY LARGE TEXTURE SIZES OF THIS PACK, THERE IS A HIGH CHANCE OF LAG ON MID-TO-LOW-RANGE PCS. INTEL HD GRAPHICS CARDS ARE NOT RECOMMENDED TO BE USED WHEN RUNNING THIS PACK. YOU HAVE BEEN WARNED, USE THIS AT YOUR OWN RISK.***
 
+***This is the Toontown Rewritten branch. For support for non-TTR resources, please see the Toontown Online branch.
+
 # FAQ
 
 **Q:** How do I install this?
