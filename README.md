@@ -16,15 +16,9 @@ The result is a near 1:1 idea of what a faithful modern day Toontown could've lo
 
 **Q:** How compatible is this source with other projects (Open Toontown for example)?
 
-**A:** *Mostly.* To comply with Toontown Rewritten's updates, certain files had to be removed or changed. A list will be provided here:
+**A:** This branch is compatible with Toontown Online's textures, while still containing the fixes and improvements. It will be updated for closer visual parity to TTO as it existed before closure (gold bean bank, etc.).
 
-* avatar_palette_2tmla_1: Removed to support Toontown Rewritten's portable hole remaster
-* background: Removed to support Toontown Rewritten's loading screen
-* toontown_map: Removed to support Toontown Rewritten's updated map
-* gamegui_palette_4alla_1: Removed to support Toontown Rewritten's removal of the True Friends option
-* catalogBackground: Altered to remove shading on the perimeter of the texture, thus allowing it to display "correctly" in 16:9
-
-I plan to make a separate branch for compatibility with non-Rewritten sources/projects. In the mean time, please add these files yourself. Pandora Palettizer has a set of pre-exported files you can use.
+If you wish to use these textures on Toontown Rewritten, please see the main branch.
 
 **Q:** I found an issue/want to contribute!
 
@@ -43,7 +37,6 @@ My only request is that you don't steal the credit for yourself or anyone else. 
 The things changed are:
 
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
-* Restored red cross on the Ambulance Chaser/Nurse Shark
 * Fixed Lawbot HQ scale not displaying the emblem
 * Update the vanilla battle menu to correctly include the Fires icon
 * Fix a poor quality removal of a small light on the Donald's Dreamland skybox that caused a small seam in the texture
@@ -64,7 +57,6 @@ For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be ad
 
 # CREDITS
 
-* Kel'Block: Original resolution Nurse Shark, converting the Ambulance Chaser to the new UV
 * yippie2020: Fix to the Lawbot HQ scale
 * KHDecoder: Battle menu shadow fix
 * Footballtoon: Trading card scans
