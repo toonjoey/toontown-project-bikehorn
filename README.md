@@ -43,6 +43,7 @@ The things changed are:
 * Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
 * Fix to the Sellbot Factory windows having an incorrectly set alpha channel, causing them to display as small bars
 * Fixes to a large variety of RGB issues caused by faulty TIF files in the original model repository, such as Estates and Catching Game
+* Fixed/improved Party Gate RGBs, fixing a number of issues involving transparency
 
 It's also possible that I made a mistake. In which case, please open an issue/pull request if possible!
 
