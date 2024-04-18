@@ -37,6 +37,7 @@ My only request is that you don't steal the credit for yourself or anyone else. 
 The things changed are:
 
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
+* Reconstructed Waiter Cogs based on upscaled Waiter outfits with edited Cashbot Blazer textures
 * Fixed Lawbot HQ scale not displaying the emblem
 * Update the vanilla battle menu to correctly include the Fires icon
 * Fix a poor quality removal of a small light on the Donald's Dreamland skybox that caused a small seam in the texture
