@@ -35,6 +35,7 @@ My only request is that you don't steal the credit for yourself or anyone else. 
 The things changed are:
 
 * Flipped Bossbot/Sellbot arms/legs to be consistent with the other Cog types
+* Reconstructed Waiter Cogs based on upscaled Waiter outfits with edited Cashbot Blazer textures
 * Restored red cross on the Ambulance Chaser/Nurse Shark
 * Fixed Lawbot HQ scale not displaying the emblem
 * Update the vanilla battle menu to correctly include the Fires icon
