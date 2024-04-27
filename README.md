@@ -43,6 +43,7 @@ The things changed are:
 * Fix a poor quality removal of a small light on the Donald's Dreamland skybox that caused a small seam in the texture
 * Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
 * Fixes/improvements to a large variety of transparency issues caused by faulty TIF files or poor editing in the original model repository, such as Estates and Catching Game
+* Fixed typo on Popcorn Cart Estate item
 
 It's also possible that I made a mistake. In which case, please open an issue/pull request if possible!
 
