@@ -44,6 +44,7 @@ The things changed are:
 * Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
 * Fixes/improvements to a large variety of transparency issues caused by faulty TIF files or poor editing in the original model repository, such as Estates and Catching Game
 * Fixed typo on Popcorn Cart Estate item
+* Fixed grey lines on the Minnie's Melodyland and Toontown Central curb textures, which caused a very noticeable seam
 
 It's also possible that I made a mistake. In which case, please open an issue/pull request if possible!
 
