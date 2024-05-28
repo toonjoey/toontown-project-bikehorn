@@ -41,7 +41,8 @@ The things changed are:
 * Update the vanilla battle menu to correctly include the Fires icon
 * Corrected Clarabelle's glove color to be accurate to her appearance in Toontown Online
 * Fix a poor quality removal of a small light on the Donald's Dreamland skybox that caused a small seam in the texture
-* Remastered Bossbot HQ/Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
+* Remastered Toon Hall portraits using color corrected and tweaked scans of the original Trading Cards
+* Upscaled Bossbot HQ portraits
 * Fixes/improvements to a large variety of transparency issues caused by faulty TIF files or poor editing in the original model repository, such as Estates and Catching Game
 * Fixed typo on Popcorn Cart Estate item
 * Fixed grey lines on the Minnie's Melodyland and Toontown Central curb textures, which caused a very noticeable seam
