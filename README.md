@@ -64,7 +64,7 @@ For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be ad
 * Kel'Block: Original resolution Nurse Shark, converting the Ambulance Chaser to the new UV
 * Bob-by/Greetings: Cashbot HQ Under New Management compatibility
 * yippie2020: Fix to the Lawbot HQ scale
-* AiGen: Reconstructed Foreman blazer
+* AiGen: Old reconstructed Foreman blazer
 * KHDecoder: Battle menu shadow fix
 * Footballtoon: Trading card scans
 * robertfwallis and Mr. Cheeze: General nitpicking/bug reporting
