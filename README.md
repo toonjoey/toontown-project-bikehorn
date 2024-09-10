@@ -62,6 +62,7 @@ For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be ad
 # CREDITS
 
 * Kel'Block: Original resolution Nurse Shark, converting the Ambulance Chaser to the new UV
+* Dr. Proton: Assistance in removing the text on the Cashbot HQ box
 * Bob-by/Greetings: Cashbot HQ Under New Management compatibility
 * yippie2020: Fix to the Lawbot HQ scale
 * AiGen: Old reconstructed Foreman blazer
