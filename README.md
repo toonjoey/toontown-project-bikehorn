@@ -61,6 +61,7 @@ For the record, ***I will (mostly, see eye textures and TTR Toon Hall) not be ad
 
 # CREDITS
 
+* Dr. Proton: Assistance in removing the text on the Cashbot HQ box
 * yippie2020: Fix to the Lawbot HQ scale
 * KHDecoder: Battle menu shadow fix
 * Footballtoon: Trading card scans
